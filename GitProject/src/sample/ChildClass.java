@@ -7,7 +7,7 @@ public class ChildClass extends ParentClass{
 		add();
 		c = a - b;
 		System.out.println(c);
-		System.out.println("Git updated");
+		System.out.println("Git updated version");
 	}
 
 	
